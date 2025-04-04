@@ -8,5 +8,5 @@
 ###### Is the lock file always in the bucket after it is created?
 - No it is not. 
 
-![](both.png)
-![](state.png)
+![](state-file.png)
+![](lock-file.png)
